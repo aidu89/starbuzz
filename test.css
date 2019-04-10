@@ -1,0 +1,46 @@
+/* CSS Document */
+
+
+#l {
+	font-weight: lighter;
+}
+
+#n {
+	font-weight: normal;
+}
+
+#b {
+	font-weight: bold;
+}
+
+#bb {
+	font-weight: bolder;
+}
+
+#n {
+	text-decoration: underline;
+}
+
+#l {
+	text-decoration: overline;
+}
+
+#body
+{font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"; font-size: 150%;}
+#stamp {
+	border-width: 5px;
+	border-color: rgb(178,215,215);
+	width:100px;
+	height: 100px;
+	margin: auto;
+	border-style: dashed;
+
+}
+
+#content {
+	background: rgb(178,212,212);
+	height: 100%;
+	text-align: center;
+	vertical-align: middle;
+	
+}

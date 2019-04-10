@@ -1,0 +1,49 @@
+/* CSS Document */
+body {
+	background: tan;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial;
+
+}
+
+
+#content {
+    margin: auto;
+    width: 70%;
+	padding: 10px 20px 10px 20px;
+}
+
+h1 {
+	
+}
+
+h2 {
+	
+}
+p {
+	
+}
+
+
+.price {
+	color: rgba(18,90,2,1.00);
+}
+
+#contact {
+	text-align: center;
+	padding: 40px;
+	font-size: 150%;
+}
+
+a:link {
+	color: brown;
+	text-decoration: none;
+}
+
+a:visited {
+	color:darkolivegreen;
+}
+
+a:hover {
+	color: brown;
+	text-decoration-line:underline;
+}
