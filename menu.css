@@ -47,3 +47,13 @@ a:hover {
 	color: brown;
 	text-decoration-line:underline;
 }
+
+div {
+	
+}
+
+#test {
+	box-sizing: border-box;
+	width: 200px;
+	
+}
