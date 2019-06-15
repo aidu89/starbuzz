@@ -1,0 +1,10 @@
+/* CSS Document */
+
+.logo {
+	height: 80px;
+	width: 80px;
+	
+}
+#navbarNav {
+	justify-content: flex-end;
+}
